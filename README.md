@@ -2,19 +2,16 @@
 
 This project contains a Dockerfile that prints "Hello, Captain!" to the console.
 
-https://github.com/blcsilva/docker
-
 ## Requirements
 
 - Docker installed on your machine
 
 ## Getting Started
 
-### Building the Docker Image
+### Clone the Repository
 
-1. Clone the repository (if applicable) or navigate to the project directory where the `Dockerfile` is located.
+You can clone this project using the following command:
 
-2. Build the Docker image with the following command:
-
-   ```bash
-   docker build -t hello-captain .
+```bash
+git clone https://github.com/blcsilva/docker
+cd docker
