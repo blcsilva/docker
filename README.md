@@ -2,7 +2,7 @@
 
 This project contains a Dockerfile that prints "Hello, Captain!" to the console.
 
-https://github.com/blcsilva/docker/blob/main/.Dockerfile
+https://github.com/blcsilva/docker
 
 ## Requirements
 
